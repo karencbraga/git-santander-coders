@@ -6,3 +6,4 @@ Aliquam erat volutpat. Ut quis lacus erat. Fusce consectetur sapien nisi, vitae 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 Edit comando pull
+Edit comando fetch
